@@ -1,5 +1,5 @@
-El jugador podrá [resolver problemas matemáticos], para avanzar deberá [dar con los resultados de las operaciones] y los desafíos
-incluirán [mini juegos matemáticos interactivos]
-Los estudiantes avanzarán mediante [la acumulación de una puntuación requerida]. Cada nivel representa [un concepto matemático diferente],
+El jugador podrá [aprender nueva temática ], para avanzar deberá [saber aplicar los temas matemáticos ] y los desafíos
+incluirán [rompecabezas lógicos, preguntas de opción múltiple y minijuegos interactivos.]
+Los estudiantes avanzarán mediante [un sistema de niveles y recompensas.]. Cada nivel representa [un concepto matemático diferente (sumas, restas, multiplicaciones, fracciones, etc.)],
 y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
