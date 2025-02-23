@@ -12,11 +12,11 @@ PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
 los jugadores conceptos clave de [MATERIA]. 
 
-El jugador podrá [aprender nueva temática ], para avanzar deberá [saber aplicar los temas matemáticos ]
-y los desafíos incluirán [rompecabezas lógicos, preguntas de opción múltiple y minijuegos interactivos.]
+El jugador podrá aprender nueva temática, para avanzar deberá saber aplicar los temas matemáticos
+y los desafíos incluirán rompecabezas lógicos, preguntas de opción múltiple y minijuegos interactivos.
 
-Los estudiantes avanzarán mediante [un sistema de niveles y recompensas.]. Cada nivel representa 
-[un concepto matemático diferente (sumas, restas, multiplicaciones, fracciones, etc.)],
+Los estudiantes avanzarán mediante un sistema de niveles y recompensas. Cada nivel representa 
+un concepto matemático diferente (sumas, restas, multiplicaciones, fracciones, etc.),
 y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá
 identificar áreas de mejora y celebrar sus logros.
 
