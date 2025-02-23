@@ -12,12 +12,13 @@ con una gran pasión por resolver acertijos. Bit es un explorador digital que ha
 encontrar los códigos correctos, Bit deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
 los jugadores conceptos clave de organización, secuencias, patrones y pensamiento lógico. 
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS] 
+El jugador podrá aprender nueva temática, para avanzar deberá saber aplicar los temas matemáticos
+y los desafíos incluirán rompecabezas lógicos, preguntas de opción múltiple y minijuegos interactivos.
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO EDUCATIVO], 
-y los jugadores recibirán retroalimentación inmediata sobre su desempeño, 
-lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
+Los estudiantes avanzarán mediante un sistema de niveles y recompensas. Cada nivel representa 
+un concepto matemático diferente (sumas, restas, multiplicaciones, fracciones, etc.),
+y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá
+identificar áreas de mejora y celebrar sus logros.
 
 Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
 [CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante [MÉTODO], 
