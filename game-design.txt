@@ -19,10 +19,11 @@ Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO E
 y los jugadores recibirán retroalimentación inmediata sobre su desempeño, 
 lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante [MÉTODO], 
-lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva. 
-
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para 
-[PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] 
-para garantizar una experiencia de juego fluida y atractiva. 
+Los jugadores aprenderán estrategias de resolución de problemas  mediante  juegos interactivos y desafíos. Se reforzará
+ el trabajo en equipo a través de dinámicas colaborativas  y las evaluaciones se realizarán mediante
+evaluaciones en tiempo real dentro del juego, lo que permitirá a los profesores y estudiantes medir el progreso de
+manera efectiva.
+El juego se desarrollará usando  tecnología de realidad aumentada y tendrá soporte para
+móviles y PC. Además, se implementarán características como
+ integración en la nube, personalización de personajes y seguimiento de rendimiento para garantizar una experiencia de
+juego fluida y atractiva.
